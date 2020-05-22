@@ -5,3 +5,7 @@ Data are taken from the [Sloan Digital Sky Survey](https://www.sdss.org/) (SDSS)
 Results on range of the Abell catalogue numbers 13-1991:
 
 ![](https://github.com/MohsenQazi/object-classification/blob/master/Abell_1.png)
+
+Results on the range of the Abell catalogue numbers 13-1991 and numbers 2029-4059:
+
+![](https://github.com/MohsenQazi/object-classification/blob/master/Abell.png)
