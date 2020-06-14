@@ -2,7 +2,7 @@ This is my first experience of analysing huge data using Machine Learning.
 
 Data are taken from the [Sloan Digital Sky Survey](https://www.sdss.org/) (SDSS), in three categories: Star, Galaxy, Quasar. And the model is built on top of [Keras library](https://keras.io/).
 
-**[UPDATE]** Enhanced result (*317520 test data*):
+**[UPDATE]** Enhanced result (*2085 wrong predicted among 317520 test data*):
 
 ![](https://github.com/MohsenQazi/object-classification/blob/master/Enhanced_Abell.png)
 
