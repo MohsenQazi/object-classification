@@ -1,6 +1,10 @@
-This is my first experience of analysing huge data of Physics using Machine Learning.
+This is my first experience of analysing huge data using Machine Learning.
 
-Data are taken from the [Sloan Digital Sky Survey](https://www.sdss.org/) (SDSS), in three categories: Star, Galaxy, Quasar. And the model is based on [Keras library](https://keras.io/).
+Data are taken from the [Sloan Digital Sky Survey](https://www.sdss.org/) (SDSS), in three categories: Star, Galaxy, Quasar. And the model is built on top of [Keras library](https://keras.io/).
+
+**[UPDATE]** Enhanced result (*317520 test data*):
+
+![](https://github.com/MohsenQazi/object-classification/blob/master/Enhanced_Abell.png)
 
 Results on range of the Abell catalogue numbers 13-1991:
 
